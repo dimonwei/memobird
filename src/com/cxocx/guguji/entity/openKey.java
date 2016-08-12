@@ -18,7 +18,7 @@ public class openKey {
 	 * @return key
 	 */
 	public static String getKey() {
-		key = "374627223190454fbd2c806fd2897538";
+		key = "###################";
 		return key;
 	}
 
